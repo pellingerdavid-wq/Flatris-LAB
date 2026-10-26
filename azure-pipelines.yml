@@ -15,7 +15,7 @@ variables:
   webAppName: 'testgame-bc2'
   
   # Resource group
-  resourceGroupName: 'test-bcRG'
+  resourceGroupName: 'testgame-bc2_group'
  
   # Environment name
   environmentName: 'testgame-bc'
